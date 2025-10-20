@@ -44,7 +44,7 @@ In case you want to re-calibrate the ZED system due to repositioning of the ZED 
 ![alt text](images/setup-room-2.png)
 6. Start **Calibration**.
 ![alt text](images/calibration-1.png)
-7. Move naturally inside the cylinder to allow cameras to detect body motion.
+7. Move naturally inside the cylinder to allow cameras to detect body motion. This step may take a while 10-15 minutes.
    * Ensure the room is **well lit** during calibration.
 8. Click **Finish Calibration**.
 ![alt text](images/finish-calibration.png)
@@ -57,7 +57,7 @@ In case you want to re-calibrate the ZED system due to repositioning of the ZED 
 
 Before running the Unity scene, start the **ZED Unity Livelink Fusion** using your calibration file.
 
-For example:
+For example, in our system:
 
 ```powershell
 PS C:\Users\softi> cd C:\Users\softi\Downloads\zedfusion\zed-unity-livelink\zed-unity-livelink-fusion\build\Release
