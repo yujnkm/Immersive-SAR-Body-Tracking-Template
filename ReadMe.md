@@ -69,7 +69,7 @@ You should see message saying that all cameras in the system are "Ready", follow
 ![After successful initiation, ZED SKeleton View is Activated](images/zed-skeletons.png)
 
 **Detailed setup guide:**
-Detailed instructions for setting up zed live link fusion from scratch can be found here: 
+Detailed instructions for setting up zed live link fusion from scratch can be found below. In the current setup, version `v4.2.0` is being used.
 [https://github.com/stereolabs/zed-unity-livelink?tab=readme-ov-file#using-the-live-link-for-unity-tools](images/https://github.com/stereolabs/zed-unity-livelink?tab=readme-ov-file#using-the-live-link-for-unity-tools)
 
 ---
@@ -154,7 +154,9 @@ You should now be able to step inside Igloo and see it working.
 
 ## References
 
-* **Igloo Cylinder:** [https://www.igloovision.com/products/cylinders-cubes-domes](images/https://www.igloovision.com/products/cylinders-cubes-domes)
-* **ZED 2i Camera:** [https://www.stereolabs.com/store/products/zed-2i](images/https://www.stereolabs.com/store/products/zed-2i)
-* **ZED Unity Livelink Fusion Setup:** [https://github.com/stereolabs/zed-unity-livelink](images/https://github.com/stereolabs/zed-unity-livelink)
-* **Igloo Unity Setup Docs:** [https://360igloo.atlassian.net/wiki/spaces/IG/pages/3272867841/v1.3+Installation+Instructions](images/https://360igloo.atlassian.net/wiki/spaces/IG/pages/3272867841/v1.3+Installation+Instructions)
+* **Igloo Cylinder:** [https://www.igloovision.com/products/cylinders-cubes-domes](https://www.igloovision.com/products/cylinders-cubes-domes)
+* **ZED 2i Camera:** [https://www.stereolabs.com/store/products/zed-2i](https://www.stereolabs.com/store/products/zed-2i)
+* **ZED SDK (version used: 5.0.0):**: [https://www.stereolabs.com/developers/release](https://www.stereolabs.com/developers/release)
+* **ZED Unity Livelink Fusion Setup (version used: 4.2.0):** [https://github.com/stereolabs/zed-unity-livelink](https://github.com/stereolabs/zed-unity-livelink/tree/v4.2.0)
+* **Igloo Unity Setup Docs (version used: 1.3):** [https://360igloo.atlassian.net/wiki/spaces/IG/pages/3272867841/v1.3+Installation+Instructions](https://360igloo.atlassian.net/wiki/spaces/IG/pages/3272867841/v1.3+Installation+Instructions)
+
