@@ -140,6 +140,14 @@ On the **client computer** (connected to the Igloo Projection System):
 ![alt text](images/new-session-3.png)
 5. In the **Geometry** tab to adjust the viewport if necessary.
 
+# Audio
+1. Ensure that there is a connection between the host computer and the sound system using a 3.5 mm audio jack (client) and AV cable (sound system).
+2. Make sure the sound input is set to **CD** in the sound system (for the main computer, the input is: **CBL/SAT**).
+4. (Optional) Open FxSound application, and set up the output method to be the sound system. In the current setup, it is identified by **Realtek HD Audio 2nd output (Realtek(R) Audio)**. FxSound ensures the volume is balanced though all the sounds you may be using in your application, and you can tune.
+![alt text](images/fl-output.png)
+5. If not using FxSound, ensure proper sound output is selected for the sound system through windows sound output (windows + CTRL + V).
+![alt text](images/sound-output.png)
+
 ---
 You should now be able to step inside Igloo and see it working.
 ---
